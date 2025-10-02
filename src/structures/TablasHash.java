@@ -5,6 +5,7 @@ import java.util.LinkedList;
 import java.lang.UnsupportedOperationException;
 import java.lang.NullPointerException;
 
+
 public class TablasHash {
   private LinkedList<Integer> tabla[];
   private int size;
